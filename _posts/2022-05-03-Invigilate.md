@@ -1,7 +1,7 @@
 # Invigilate
 A proctoring web application for online examinations.
 
-![Home Page](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/home-page.png"Home Page")
+![Home Page](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/home-page.png?raw=true "Home Page")
 
 - Tech Stack used: React JS, Node JS, Python and Firebase.
 - The application allows organizations (schools and colleges) to conduct their examinations on the platform using google forms.

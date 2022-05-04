@@ -51,17 +51,17 @@ A web application to proctor students for online examinations.
 - Upon validation the student can move to the google form
 - Once the test begins the full screen mode is enabled.
 
-![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/test-site3.png?raw=true "Test")
+![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/testsite3.png?raw=true "Test")
 
 - If the user changes his tab or exits full screen mode, the changi is immidietly detected
 
-![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/test-site4.png?raw=true "Tab Change Detected")
+![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/testsite4.png?raw=true "Tab Change Detected")
 
 - The information regarding the students activities is recorded and updated at the organizations portal.
 - Upon clicking the proctor button the organization can view the no of students giving the test and the malpractices performed (if any).
 - The organization has the option to terminate the students test if they suspect malicious activity
 
-![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/test-site4.png?raw=true "Procotring results")
+![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/proctor1.png?raw=true "Procotring results")
 
 ### Tech Stacks used
 - Tech Stack used: React JS, Node JS, Python and Firebase.

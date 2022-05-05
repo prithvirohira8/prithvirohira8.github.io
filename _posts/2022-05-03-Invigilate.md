@@ -94,7 +94,10 @@ The nodeServer branch consists of the node server code which will run on localho
 Clone and start both the servers before using the application.
 
 ### Project Contributors
-[Abhishek Sharma](https://github.com/Abhi-tech-09)\
-[Prithvi Rohira](https://github.com/prithvirohira8)\
-[Shashwat Satao](https://github.com/prithvirohira8)\
-[Tanay Munot](https://github.com/prithvirohira8)\
+[Abhishek Sharma](https://github.com/Abhi-tech-09)
+
+[Prithvi Rohira](https://github.com/prithvirohira8)
+
+[Shashwat Satao](https://github.com)
+
+[Tanay Munot](https://github.com)

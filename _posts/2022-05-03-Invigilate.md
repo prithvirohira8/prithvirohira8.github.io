@@ -4,12 +4,12 @@
 ![Home Page](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/home-page.png?raw=true "Home Page")
 
 ### Table of contents
-| Title                           |
-| ------------------------------- |
-| About                           |
-| Why Invigilate                  |
-| Demonstration                   |
-| Architecture and Implementation |
+| Title                           |\
+| ------------------------------- |\
+| About                           |\
+| Why Invigilate                  |\
+| Demonstration                   |\
+| Architecture and Implementation |\
 | How to clone the repository     |
 
 ### About
@@ -94,7 +94,7 @@ The nodeServer branch consists of the node server code which will run on localho
 Clone and start both the servers before using the application.
 
 ### Project Contributors
-[Abhishek Sharma](https://github.com/Abhi-tech-09)
-[Prithvi Rohira](https://github.com/prithvirohira8)
-[Shashwat Satao](https://github.com/prithvirohira8)
-[Tanay Munot](https://github.com/prithvirohira8)
+[Abhishek Sharma](https://github.com/Abhi-tech-09)\
+[Prithvi Rohira](https://github.com/prithvirohira8)\
+[Shashwat Satao](https://github.com/prithvirohira8)\
+[Tanay Munot](https://github.com/prithvirohira8)\

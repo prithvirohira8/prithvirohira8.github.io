@@ -3,7 +3,7 @@
 
 ![Home Page](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/home-page.png?raw=true "Home Page")
 
-### Table of contents                          
+### Table of Contents                          
 - **About**                           
 - **Why Invigilate**                  
 - **Demonstration**                   

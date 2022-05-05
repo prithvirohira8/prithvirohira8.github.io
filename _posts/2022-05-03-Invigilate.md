@@ -3,6 +3,15 @@ A web application to proctor students for online examinations.
 
 ![Home Page](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/home-page.png?raw=true "Home Page")
 
+### Table of contents
+| Title      |
+| ----------- |
+| About      |
+| Why Invigilate   |
+| Demonstration |
+| Architecture and Implementation |
+| How to clone the repository |
+
 ### About
 - The application allows organizations (schools and colleges) to conduct their examinations on the platform using google forms.
 - The platform proctors the students during the examination and informs the organization if any malpractices like tab switching, exiting full screen mode were performed during the test by the student.
@@ -63,6 +72,14 @@ A web application to proctor students for online examinations.
 
 ![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/proctor1.png?raw=true "Procotring results")
 
+### Project Architecture and Implementaion Details
+- Authentication was done using Firebase Authentication considering the fact that it provides an easy token based authentication system
+- The organization and student data was saved in the Firebase Realtime Database.
+- Face Verification was carried out using [Deep Face]("https://github.com/serengil/deepface").
+- Email JS was used in React to notify students about their examinations.
+- Cryptojs was used for encryption of examination database keys and generation of a test link.
+- Shoutout to [Jason Zissman]("https://github.com/jasonzissman") for his wonderful [repository]("https://github.com/jasonzissman/TimeMe.js") that helped a lot.
+
 ### Tech Stacks used
 - Tech Stack used: React JS, Node JS, Python and Firebase.
 
@@ -76,3 +93,8 @@ The nodeServer branch consists of the node server code which will run on localho
 
 Clone and start both the servers before using the application.
 
+### Project Contributors
+[Abhishek Sharma](https://github.com/Abhi-tech-09)
+[Prithvi Rohira](https://github.com/prithvirohira8)
+[Shashwat Satao](https://github.com/prithvirohira8)
+[Tanay Munot](https://github.com/prithvirohira8)

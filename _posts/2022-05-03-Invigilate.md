@@ -3,14 +3,12 @@
 
 ![Home Page](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/home-page.png?raw=true "Home Page")
 
-### Table of contents
-| Title                           |\
-| ------------------------------- |\
-| About                           |\
-| Why Invigilate                  |\
-| Demonstration                   |\
-| Architecture and Implementation |\
-| How to clone the repository     |
+### Table of contents                          
+- **About**                           
+- **Why Invigilate**                  
+- **Demonstration**                   
+- **Architecture and Implementation** 
+- **How to clone the repository**     
 
 ### About
 - The application allows organizations (schools and colleges) to conduct their examinations on the platform using google forms.

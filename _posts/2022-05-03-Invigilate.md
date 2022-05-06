@@ -1,9 +1,12 @@
 # Invigilate
-*A web application to proctor students for online examinations.*
+*A web application  for organizations(Universities/Schools) to proctor students for online examinations.*
 
 ![Home Page](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/home-page.png?raw=true "Home Page")
 
-### Table of Contents                          
+### Tech Stacks used
+- React JS, Node JS, Python and Firebase.
+
+### List of Contents                          
 - **About**                           
 - **Why Invigilate**                  
 - **Demonstration**                   
@@ -23,13 +26,15 @@
 
 ### Demonstration
 
-#### Organization Sign-up
+##### Organization Sign-up
 - Organizations (Schools Colleges need to create their accounts by filling in the details)
 
 ![Organization Sign-up Page Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/organization-signup.png?raw=true "Organization Sign-up Page")
 
 - On the home page of the organizations they have the option ofhe fiels creating a test by clicking on the scheduling a test button and filling in the details.
 - They can add the google form link of the test here, set the time duration,limits for screen changes, full screen exits.
+
+##### Creating a test
 
 ![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/test-reg1.png?raw=true "Scheduling a test")
 
@@ -40,7 +45,11 @@
 
 - Once the students create their account on the application they can enter the test link and will be redirected to a server where the test will be conducted in a google form under a proctored enviournment.
 
+##### Student signup
+
 ![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/student-signup.png?raw=true "Student Signup")
+
+##### Attempting a test
 
 ![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/student-portal.png?raw=true "Entering the test link")
 
@@ -68,18 +77,17 @@
 - Upon clicking the proctor button the organization can view the no of students giving the test and the malpractices performed (if any).
 - The organization has the option to terminate the students test if they suspect malicious activity
 
+##### Viewing the student performance
+
 ![Loading](https://github.com/prithvirohira8/prithvirohira8.github.io/blob/main/_posts/images/invigilate/proctor1.png?raw=true "Procotring results")
 
 ### Project Architecture and Implementaion Details
 - Authentication was done using Firebase Authentication considering the fact that it provides an easy token based authentication system
 - The organization and student data was saved in the Firebase Realtime Database.
-- Face Verification was carried out using [Deep Face]("https://github.com/serengil/deepface").
+- Face Verification was carried out using [Deep Face](https://github.com/serengil/deepface).
 - Email JS was used in React to notify students about their examinations.
 - Cryptojs was used for encryption of examination database keys and generation of a test link.
-- Shoutout to [Jason Zissman]("https://github.com/jasonzissman") for his wonderful [repository]("https://github.com/jasonzissman/TimeMe.js") that helped a lot.
-
-### Tech Stacks used
-- Tech Stack used: React JS, Node JS, Python and Firebase.
+- Shoutout to [Jason Zissman](https://github.com/jasonzissman) for his wonderful [repository](https://github.com/jasonzissman/TimeMe.js) that helped a lot.
 
 ### How to clone the repository
 - There are 2 servers. 
@@ -88,6 +96,10 @@
 
 The master branch consists of the react server code which will run on localhost:3000.
 The nodeServer branch consists of the node server code which will run on localhost:4000.
+
+repository link :- https://github.com/prithvirohira8/Rubix-22-46-RunTimeTerror
+
+Clone the respective branches and start both the servers before using the application.
 
 Clone and start both the servers before using the application.
 

@@ -1,4 +1,4 @@
-The Daily Developer is a blog created by Prithvi Rohira in May 2020.
+The Daily Developer is a blog created by Prithvi Rohira in May 2022.
 It covers articles on solution driven projects, algorithms and other insightful articles related to the field of computer science.
 
 ## **About Myself**
